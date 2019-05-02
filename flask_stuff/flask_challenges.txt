@@ -1,0 +1,23 @@
+
+logan: centimeters to inches
+
+xzavier: inches to centimeters
+
+Josh: meters to feet
+
+Nesken: feet to meters
+
+owen: kilometers to miles
+
+nick: miles to kilometers
+
+joey: Celsius to fahrenheit
+
+Chai: celsius to degrees kelvin
+
+Jon: pounds to kilograms
+
+Patrick: kilograms to pounds
+
+Molly: Farhenheit to celsius
+

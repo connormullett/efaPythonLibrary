@@ -1,0 +1,18 @@
+
+Group 1:
+  Chai
+  Joey
+  Owen
+  Nick
+
+Group 2:
+  Patrick
+  Jon
+  Molly
+
+Group 3:
+  Xzavier
+  Josh
+  Nesken
+  Logan
+

@@ -1,0 +1,48 @@
+
+questions link - https://www.codingame.com/work/python-interview-questions/?utm_source=google&utm_medium=ppc&utm_campaign=us-interview-question&utm_term=python-interview-question&gclid=Cj0KCQjw-tXlBRDWARIsAGYQAmcyzRmcUrR_y3cU7IgX-u7JzHJTFZYbEpsPNEI_hrq7WghDvGAqHdMaAhbyEALw_wcB
+
+
+Questions:
+    1. What is a ternary operator? How are they used?
+        Shorthand if statement used for assignment
+    2. We know that python is OOP, but does it have access modifiers?
+        not technically, getattr and setattr can be implemented
+    3. how does python read a file
+        top to bottom
+    4. How do we catch errors in python we know are going to break?
+        try/except
+    5. What are python blocks and how do we define them
+        indentation and scope
+    6. If you have to choose between a list, set, and a dictionary to store 10 million integers, what will you use? Bear in mind that you would later like to query the frequency of a number within the dataset.
+        dictionary, store number as key, freq value
+    7. What is the difference between a list and a tuple?
+        immutability
+    8. What is a shallow copy and a deep copy?
+        shallow is by value, deep is by ref
+    9. What is list comprehension?
+        generate a new list by performing operations on everything in a list
+    10. What is the difference between is and ==
+        is is checking memory, == is for equality
+    11. In a function what is the meaning of *args and **kwargs
+        variable arguments, *Args tuple, keyword args takes keyword + value
+    12. What are some reasons to dislike python?
+        whitespace, interpretation, dynamic, monkey patching
+    13. Explain the use of decorators?
+        enhance existing functions, modularity, reusability, pass func to other func
+        and perform tasks before and after
+    14. What is CPython
+        the default python interpreter and the base language
+    15. What is a lambda in python
+        an anonymous function
+
+
+THINGS TO LOOK INTO
+- ternary operators
+- OOP and class manipulation
+- scope in python
+- time complexity (big O)
+- differences in data types
+- comparison operators, is and ==
+- variable arguments and positional arguments(*args, **kwargs)
+- decorators
+

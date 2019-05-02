@@ -1,0 +1,198 @@
+
+Jon
+    1. Dont know
+    2. yes
+    3. top to bottom left to right
+    4. something not executing, going back and debugging
+    5. dont know
+    6. dictionary, best way to get info in a specific order
+    7. tuple can condense info in less lines of code and same result
+    8. dont know
+    9. comp a list of items in a program
+    10. == is equality, is is the difference between 2 items
+    11. keyword arguments and arguments specific to python
+    12. not understanding functions and capabilities
+    13. asked about syntax, able to listen to certain things and act as a listener
+    14. based on C but compressed, integration with C, not sure
+    15. anonymous function
+
+
+Patrick
+    1. no idea
+    2. yes, decorators to change it, classes have acces and can inherit
+    3. top to bottom
+    4. unittests, print statement, doesnt say try/except
+    5. tabs, indentation, top to bottom
+    6. dictionary, set it to a value, check to see frequencies, key is number, value
+        is how many times it appears, check more times
+    7. tuples can have multiple data types
+    8. shallow copy is what you are working on, deep is what you are referencing
+        "master copy" like master branch
+    9. going through list and perform ops on everything in list
+    10. == exactly be that value, is can be a match
+    11. kwargs are like a dict, not sure about args, involved in decorators, will grab values
+    12. someone wants more complex, its backend but opportunities to be verse, industry specific, company preference
+    13. decorators allow you to take a function and put it into another function, and execute it through something else, more interaction, hidden
+    14. C combined with python
+    15. dunder methods, __init__, __repr__, defines datatypes
+
+
+Josh
+    1. skip
+    2. yes, cause it has the ability to use authentication
+    3. in terminal with python FILENAME.py, to exe at a base level
+    4. try/finally/except function with python file to test areas to point out issues
+    5. blocks of code are classes and defs, classes hold defs, usually an init method
+        in a class, defs run smaller sections of the class
+    6. dictionary, dict can have a variable set in it, can store key, values.
+        have to set it up
+    7. list can be modified, tuple cannot, tupe uses () list uses []
+    8. pass
+    9. list comp is the programs ability to read a list and perform CRUD, pull apart list
+        pop, split, index, and others
+    10. == means it is that, is is within
+    11. args can be run within a function, generalized variable. pass on kwargs
+    12. python can get really complicated, reading other peoples code, indentation can
+        cause huge problems, C++ doesnt care about indentation
+    13. @ syntax with function name, throwing variables into itself, put the variables and run them later on
+    14. CPython is connection between C and python
+    15. anonymous function, hides the code, like a null function
+
+Nick
+    1. dont know
+    2. no, dont know
+    3. dont know
+    4. comment it out
+    5. dont know
+    6. dictionary, easier to index into, multiple lists within dict
+    7. dont know
+    8. dont know
+    9. not sure
+    10. == checks equal, dont know is
+    11. keyword arguments, dont know
+    12. idk why you wouldnt like python
+    13. you can put multiple functions within it
+    14. CPython has qualities of C#, not sure
+    15. dont know
+
+Owen
+    1. dont know
+    2. yes, all of the libraries, pypi
+    3. top to bottom
+    4. print statements
+    5. sections of code that can complete tasks, functions
+    6. dictionary, could save key values of repeated numbers, more keys with lists inside as another possibility
+    7. lists are arrangement of objects you can manipulate, tuples cant be changes
+    8. shallow, rough draft, deep is near finished
+    9. being able to iterate over lists and be able to do other functions and loops
+    10. (confuses is with assignment), == sets whatever before to after
+    11. keyword args, things that can be passed into a function
+    12. things seem easy when simplified and small, something simple can be much larger
+        than displayed as
+    13. use decos to create a func so that another function will exec the decorator
+    14. flask
+    15. hidden function
+
+Joey
+    1. dont know
+    2. no, guessing
+    3. just run it
+    4. try/except
+    5. no clue
+    6. set, dont know, dont want a dictionary
+    7. immutability, list can be mutated
+    8. no clue
+    9. idk
+    10. assignment
+    11. dont know
+    12. confusing sometimes, syntax
+    13. dont know, something to do with class
+    14. language C but python
+    15. anonymous function
+
+Logan
+    1. performs math operators
+    2. no, kahoot thing
+    3. top to bottom
+    4. try and except
+    5. functions with a def and ()
+    6. dictionary, so you can index it
+    7. tuples are immutable
+    8. dont know
+    9. ability to loop through a list and comp it
+    10. == doesnt assign, checks for equality, is is a conditional
+    11. arguments, and keyword arguments, defines what func can take as params
+    12. whitespace, indent level matters 
+    13. decos allow to pass in a function to another function
+    14. compiled python
+    15. temporary function, no name
+
+Xzavier
+    1. not sure, might recognize
+    2. yes, so that you have full control and what objects you have
+    3. top to bottom
+    4. if statement to catch error, try/catch with response
+    5. functions, define them in classes and methods to organize
+    6. list, if just numbers, easiest to loop and check if numbers appear more than once
+    7. a list is just data, tuple can have keys and values and is structures diff
+    8. not sure
+    9. how to struct and look through a list, manipulating lists
+    10. == checks if it is exactly equal, is is used for boolean but not exactly equal to
+    11. used for unknown inputs, (answered correctly)
+    12. mostly backend, cant do alot of frontend
+    13. decos, function into another function, more modular code
+    14. (understood different runtimes, correct)
+    15. one time use function, dont have to define for it to run, nameless
+
+Nesken
+    1. not sure
+    2. yes, cause of the crud functions
+    3. requests api
+    4. pause the file
+    5. (doesnt know)
+    6. dictionary, easy access, store keys and values, use key to index
+    7. tuple can't change
+    8. not sure, internally built in, test code (wrong)
+    9. no idea
+    10. is kinda like set, == mathematic for is equal to
+    11. theyre for keyword arguments, used as decorators to store value
+    12. not to sure, logical, simple to learn and use
+    13. simplify code, use decorators to call out function earlier on
+    14. not sure
+    15. anonymous function, probably use once or twice not term
+
+Chai
+    1. shorter way of something if/else
+    2. not technically, dunder methods
+    3. dont know
+    4. try/except
+    5. scope, defined with indentation
+    6. list, easiest to use, index easily, accessing is constant time. set if no duplicates as would cause error. Knows list is O(n)
+    7. tuple cant be changed
+    8. shallow is when you copy over values, copying over reference for deep
+    9. shorter way of generating a list
+    10. is checks ref, == checks value
+    11. args are optional extra params, keyword are same organized as key=value
+    12. not compiled, might not know errors right away, dynamically typed, unknowingly
+        change data types
+    13. enhance existing functions
+    14. interpreter
+    15. anonymous functions/ inline functions
+
+Molly
+    1. skip
+    2. skip
+    3. top to bottom
+    4. try/except except Exception will catch all, can catch specific
+    5. indentation
+    6. list, search through list easily
+    7. edit a list
+    8. skip
+    9. skip
+    10. dont know
+    11. unspecified number of args, keywords take keyword then the arg
+    12. dont like coding, its not very visual
+    13. feed func to another function and do smething before and after
+    14. idk, combo of C++ and python
+    15. discrete function mostly used once
+
